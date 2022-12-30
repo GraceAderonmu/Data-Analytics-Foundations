@@ -1,1 +1,2 @@
-This is a page for the Data Analytics Foundations class
+This is a page for the Data Analytics 
+class
